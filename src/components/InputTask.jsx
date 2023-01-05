@@ -81,7 +81,7 @@ const InputTasks = (props) => {
             onChange={onChangeCategoryTask}
           />
           <Button type="submit" color="violet" onClick={onSubmitTask}>
-            Añadir tarea
+            +
           </Button>
         </Input>
       </Grid>
